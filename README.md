@@ -1,136 +1,128 @@
-# 🜲 **Muhammed Faiz — Securing Systems, Building Intelligence**
+# Muhammed Faiz
+### Software Engineer | Cybersecurity Enthusiast | Embedded Systems Developer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F8C6&height=70&section=header"/>
+I'm a Computer Science graduate specializing in Cybersecurity, interested in building secure, practical, and intelligent technology solutions.
+
+My interests span cybersecurity, software development, embedded systems, and application development. I enjoy working across the stack, from hardware-level experimentation to backend services and mobile applications.
+
+---
+
+## About Me
+
+- Computer Science graduate specializing in Cybersecurity
+- Interested in application security and system security
+- Experience with embedded systems and wireless communication
+- Exploring full-stack development and AI-assisted tools
+- Interested in building practical solutions through software and hardware integration
+
+---
+
+## Featured Projects
+
+### 1. CogniVolt Defense — Industrial Network Security Monitoring
+
+A final-year project focused on monitoring and analyzing network communications in industrial environments, particularly communication involving solar inverters.
+
+The system uses a Raspberry Pi and Python-based network monitoring to inspect industrial communication traffic and identify potential security concerns.
+
+- Network packet inspection and analysis
+- Modbus/TCP communication monitoring
+- Socket-based network communication
+- Raspberry Pi-based implementation
+- Industrial network security monitoring
+
+**Technologies:** Python, Raspberry Pi, Modbus/TCP, Sockets, Network Analysis
+
+### 2. PeekBlock — Wi-Fi-Based Hidden Camera Detection
+
+An experimental hardware-assisted system designed to identify potentially suspicious wireless devices.
+
+- ESP32-based Wi-Fi scanning
+- RSSI-based signal analysis
+- MAC address vendor identification
+- Flutter mobile application
+- BLE-based communication
+
+**Technologies:** ESP32, Flutter, Python, Wi-Fi, BLE
+
+### 3. EchoCrypt — Audio Steganography
+
+A Python-based application that combines encryption and audio steganography to conceal information within WAV audio files.
+
+- AES-256 encryption
+- RC4 encryption
+- Least Significant Bit (LSB) steganography
+- Payload extraction and integrity verification
+
+**Technologies:** Python, Cryptography, Audio Processing
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+- Python
+- Java
+- C/C++
+
+**Development**
+- Flutter
+- React
+- FastAPI
+- Firebase
+- REST APIs
+
+**Cybersecurity**
+- Network Security
+- Web Application Security
+- Nmap
+- Burp Suite
+- Wireshark
+- Autopsy
+- FTK Imager
+
+**Embedded Systems**
+- ESP32
+- ESP8266
+- Raspberry Pi
+- Wireless Communication
+- Hardware–Software Integration
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux
+- Kali Linux
+- Docker
+
+---
+
+## Experience & Activities
+
+- Cybersecurity Intern — District Cyber Cell
+- Former Vice Chair — Polaris Game Labs
+- Organized technical workshops and presentations
+- Participant — National Level Hackathon X
+- Active learner on TryHackMe
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=28&duration=4500&pause=200&center=true&vCenter=true&width=650&lines=Muhammed+Faiz+%7C+Cybersecurity+%26;" alt="Typing SVG" />
-  </a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dark-faiz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-faiz&layout=compact&theme=transparent&hide_border=true" />
+
 </div>
 
 ---
 
-## 👤 **Who Am I?**
+## Connect
 
-I’m **Muhammed Faiz**, a highly active and technically driven student working across:
-
-🔐 Cybersecurity  
-🧩 Embedded Systems  
-📱 Mobile App Development  
-🌐 Full-Stack Development  
-
-I also take on major leadership responsibilities:
-
-💠 **Vice Chair — Polaris Game Labs**  
-💠 Workshop organizer & technical presenter  
-💠 Content creator for developer & cybersecurity events  
-
-I love blending **AI, hardware, communication protocols, and security engineering** to build powerful systems.
+- GitHub: [@dark-faiz](https://github.com/dark-faiz)
+- Email: [muhammedfaiz@gmail.com](mailto:muhammedfaiz@gmail.com)
 
 ---
 
-## 🚀 **Flagship Projects**
-
-### 🛰️ **1. PeekBlock — Wi-Fi Based Hidden Camera Detection App**
-A hybrid scanner system capable of detecting hidden Wi-Fi cameras using:
-
-- ESP32 scanning firmware  
-- Bluetooth Low Energy (BLE) pairing  
-- Flutter mobile app  
-- MAC address vendor lookup  
-- RSSI signal tracking  
-- Local port scanning  
-- Offline communication logic  
-
-**Tech:** ESP32 • Flutter • BLE • Python • Wi-Fi Monitoring
-
----
-
-### 🔐 **2. EchoCrypt — Audio Steganography + AES-256 Encryption**
-A secure system that hides encrypted data inside audio files using:
-
-- AES-256 encryption  
-- LSB audio steganography  
-- PyTorch-based waveform preprocessing  
-- Payload integrity checking  
-
-**Tech:** PyTorch • Python • Cryptography • Signal Processing
-
----
-
-## 🛠️ **Tech Stack**
-
-<p align="center">
-
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-  <br>
-
-  <!-- Mobile & Web -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-  <br>
-
-  <!-- Hardware & Systems -->
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
-
-  <br>
-  
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dark-faiz&show_icons=true&theme=tokyonight&border_radius=10&icon_color=00F8C6"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=dark-faiz&theme=tokyonight&ring=00F8C6&fire=00F8C6"/>
-
-</div>
-
----
-
-## 🐍 **Contribution Graph — Snake Animation**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dark-faiz/dark-faiz/output/github-snake-dark.svg" width="700"/>
-</div>
-
----
-
-## 🎯 **What I’m Doing Right Now**
-- Wireless signal analysis & device fingerprinting  
-- Building AI-assisted cybersecurity tools  
-- Developing embedded scanning modules  
-- Full-stack hardware → backend → mobile integrations  
-- Organizing workshops & technical content  
-
----
-
-## 📬 **Reach Me**
-
-<p align="center">
-<a href="https://github.com/dark-faiz">
-  <img src="https://img.shields.io/badge/GitHub-dark--faiz-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:muhammedfaiz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00F8C6&height=70&section=footer"/>
+*Interested in building technology that is useful, reliable, and secure.*
